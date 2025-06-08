@@ -154,6 +154,3 @@ This project is a web application for ordering food online. It features a struct
 
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
